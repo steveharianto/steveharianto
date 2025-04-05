@@ -19,7 +19,8 @@
 ---
 
 ### 📈 GitHub Stats
-[![](https://raw.githubusercontent.com/steveharianto/steveharianto/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveharianto&layout=compact&theme=radical)
 
 ---
 
