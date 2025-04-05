@@ -19,14 +19,8 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steveharianto&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" alt="Steve's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=steveharianto&theme=tokyonight" alt="GitHub Streak" width="49%" />
-</p>
+[![](https://raw.githubusercontent.com/steveharianto/steveharianto/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steveharianto&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="49%" />
-</p>
 ---
 
 ### 📫 Let's Connect!
